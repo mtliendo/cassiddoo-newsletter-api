@@ -1,4 +1,4 @@
-import { newsletterDataTypes } from "./newsletterData";
+import { newsletterDataTypes } from "../../../../api_utils/newsletterData";
 import {
   scrapeInterviewQuestionFromNewsletter,
   CASSIDOO_NEWSLETTER_JSON,

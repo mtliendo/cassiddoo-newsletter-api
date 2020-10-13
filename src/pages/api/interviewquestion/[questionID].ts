@@ -2,7 +2,7 @@ import {
   CASSIDOO_NEWSLETTER_JSON,
   scrapeInterviewQuestionFromNewsletter,
 } from "../../../../api_utils/scraper";
-import { newsletterDataTypes } from "./newsletterData";
+import { newsletterDataTypes } from "../../../../api_utils/newsletterData";
 import Cors from 'cors'
 import initMiddleware from '../../../../api_utils/initMiddleware'
 
