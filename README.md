@@ -8,7 +8,7 @@ This API is for learning purposes and comes in two flavors.
 
 The first version is to showcase how to scrape data from a webpage. Due to this method scraping the data on demand, this version is significantly slower than the second version, but it also holds the benefit of not needing the overhead of a database.
 
-The second version requires more setup, but demonstrates several useful concepts including webscraping and using [AWS Amplify](https://docs.amplify.aws/) to create an RESTful API that pulls data from DynamoDB.
+**Coming Soon** The second version requires more setup, but demonstrates several useful concepts including webscraping and using [AWS Amplify](https://docs.amplify.aws/) to create an RESTful API that pulls data from DynamoDB.
 
 ## Routes
 
